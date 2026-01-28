@@ -46,3 +46,24 @@ smart-plug-esp32/
 │ ├── circuit_diagram.png
 │ └── pcb_design.png
 └── README.md
+
+## ▶️ How to Run
+1. Open the `.ino` file in Arduino IDE  
+2. Select **ESP32 board** and correct COM port  
+3. Configure Wi-Fi credentials in code  
+4. Upload the code to ESP32  
+5. Control appliance via Wi-Fi
+
+
+## 📸 Hardware Design
+Circuit diagram and PCB images are available in the `hardware/` folder.
+
+
+## 👤 Author
+**Aswin Raaj E**  
+Electronics and Communication Engineering  
+Embedded Systems & IoT  
+
+
+## 📄 License
+This project is licensed under the MIT License.
