@@ -39,3 +39,10 @@ from a mobile application or web interface.
 ---
 
 ## 📂 Project Structure
+smart-plug-esp32/
+├── code/
+│ └── smart_plug_esp32.ino
+├── hardware/
+│ ├── circuit_diagram.png
+│ └── pcb_design.png
+└── README.md
