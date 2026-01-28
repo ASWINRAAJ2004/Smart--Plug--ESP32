@@ -65,5 +65,4 @@ Electronics and Communication Engineering
 Embedded Systems & IoT  
 
 
-## 📄 License
-This project is licensed under the MIT License.
+
